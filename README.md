@@ -1,2 +1,2 @@
 # ChatbotPI
- chatbot em propridade intelectual
+Protótipo de Chatbot em propridade intelectual
