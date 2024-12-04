@@ -130,7 +130,7 @@ def main():
     st.set_page_config(page_title="ChatbotPI",
                        page_icon=":books:")
     st.write(css, unsafe_allow_html=True)
-    st.header("Bem-vindo ao chatbot PI!")
+    st.header("Bem-vindo ao ChatbotPI!")
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
