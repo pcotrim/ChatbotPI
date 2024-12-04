@@ -6,3 +6,4 @@ python-dotenv
 langchain-huggingface
 sentence-transformers
 openai
+faiss-cpu
