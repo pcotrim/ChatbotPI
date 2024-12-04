@@ -37,7 +37,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://cientistaspatentes.com.br/imagens/paula.png" >
+        <img src="https://cientistaspatentes.com.br/imagens/avatar2.png" >
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
