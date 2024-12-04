@@ -3,3 +3,5 @@ tiktoken
 langchain
 langchain-community
 python-dotenv
+langchain-huggingface
+sentence-transformers
