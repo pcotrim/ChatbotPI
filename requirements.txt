@@ -3,6 +3,7 @@ tiktoken
 langchain
 langchain-community
 langchain-core
+langchain-openai
 python-dotenv
 langchain-huggingface
 sentence-transformers
