@@ -4,7 +4,7 @@ from htmlTemplates import css, bot_template, user_template
 #from langchain.chains import ConversationChain
 #from langchain.memory import ConversationBufferMemory
 #from langchain.chat_models import ChatOpenAI
-from langchain_community.chains import ConversationChain
+#from langchain_community.chains import ConversationChain
 #from langchain_openai import ChatOpenAI
 #from langchain_core.prompts import PromptTemplate
 #from langchain.memory import ConversationBufferMemory
