@@ -2,6 +2,7 @@ streamlit
 tiktoken
 langchain
 langchain-community
+langchain-core
 python-dotenv
 langchain-huggingface
 sentence-transformers
