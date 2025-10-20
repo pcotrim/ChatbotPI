@@ -27,6 +27,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 ##from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_core.messages import HumanMessage, AIMessage
 
 load_dotenv(dotenv_path='.env')
