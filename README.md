@@ -2,10 +2,11 @@
 Protótipo de Chatbot em propriedade intelectual. 
 
 
-Licença de direito autoral:
-CC BY (Atribuição):
+Licença de direito autoral: 
 
-Permite uso, distribuição e adaptação desde que dê crédito ao autor.
+CC BY-NC (Atribuição + Não Comercial)
+
+Permite uso e adaptação, mas apenas para fins não comerciais.
 
 
 
