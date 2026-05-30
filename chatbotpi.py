@@ -14,7 +14,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 #from langchain.chains import ConversationChain
 #from langchain.chat_models import ChatOpenAI
-from langchain_community.chat_models import ChatOpenAI
+#from langchain_community.chat_models import ChatOpenAI
 #from langchain_groq import ChatGroq
 #from langchain.memory import ConversationBufferMemory
 from langchain_core.prompts import ChatPromptTemplate
