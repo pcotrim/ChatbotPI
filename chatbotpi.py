@@ -81,7 +81,7 @@ def load_doc():
 
 def load_model():
     llm = ChatOpenAI(
-        model="gpt-5-mini",  # Modelo usado
+        model="gpt-4o-mini",  # Modelo usado
         temperature=0,        # Controle de criatividade das respostas
         openai_api_key=open_api_token  # Substitua pela sua chave de API
     )
